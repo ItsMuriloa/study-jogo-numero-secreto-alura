@@ -10,7 +10,4 @@ O usuário escolhe um número entre 1 e 10 e o sistema informa se o número secr
 
 - Geração de número aleatório.
 - Validação do chute do usuário.
-- Contador de tentativas.
-- Botão para reiniciar a partida.
-- Exibição de mensagens na tela.
-- Uso de sínt
+- Contador de tent
