@@ -1,13 +1,18 @@
 # Jogo do Número Secreto
 
-Jogo web de adivinhação do número secreto, feito com HTML, CSS e JavaScript para praticar lógica, DOM, eventos, aleatoriedade e interação com o usuário.
+Jogo web de adivinhação do número secreto, feito com HTML, CSS e JavaScript.
 
-## Sobre o projeto
+## Objetivo
 
-O usuário escolhe um número entre 1 e 10 e o sistema informa se o número secreto é maior, menor ou se o chute está correto.
+Praticar lógica, DOM, eventos, aleatoriedade e interação com o usuário.
 
-## Funcionalidades
+## Destaques
 
-- Geração de número aleatório.
-- Validação do chute do usuário.
-- Contador de tent
+- Chute do usuário.
+- Número aleatório.
+- Contador de tentativas.
+- Reinício da partida.
+
+## Tecnologias
+
+HTML, CSS e JavaScript.
